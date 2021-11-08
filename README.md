@@ -1,8 +1,7 @@
 # variant
 A quick mobile game proof of concept created with Unity
 
-
-![](https://raw.githubusercontent.com/ajmazepa/variant/Assets/Sprites/Android_Feature.png)
+![](https://raw.githubusercontent.com/ajmazepa/variant/main/Assets/Sprites/Android_Feature.png)
 
 ## Usage
 These are all of the C# scripts used in the Unity project for the game.
